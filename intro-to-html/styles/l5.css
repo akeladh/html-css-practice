@@ -1,0 +1,126 @@
+p {
+  margin-bottom: 10px;
+  margin-top: 0px;
+  font-size: 30px;
+  font-family: Arial;
+}
+.part-one {
+  font-family: Tahoma;
+  font-weight: bold;
+}
+.part-twoa {
+  font-weight: bold;
+}
+.part-twob {
+  color: red;
+  font-weight: 20px;
+  font-style: italic;
+}
+.part-threea {
+  font-family: Verdana;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.part-threeb {
+  font-family: Verdana;
+  font-size: 27;
+  opacity: 0.5;
+  margin-bottom: 25px;
+}
+.part-threec {
+  font-family: Verdana;
+  font-size: 27;
+  width: 500px;
+  margin-bottom: 20px;
+}
+.part-three-button {
+  font-family: Verdana;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: #356525;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  margin-top: 10px;
+}
+.part-foura {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.part-fourb {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.part-fourc {
+  font-size: 18px;
+  color: #4a5a8b;
+  text-align: center;
+}
+.part-fourc:hover {
+  text-decoration: underline;
+}
+.part-fivea {
+  color: orange;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+}
+.part-fiveb {
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+}
+.part-fivec {
+  font-weight: bold;
+  text-align: center;
+  font-size: 44px;
+}
+.part-fived {
+  font-size: 22px;
+  text-align: center;
+  font-weight: 300;
+}
+.buy-button {
+  color: white;
+  background-color: #326fdd;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  border-radius: 20px;
+  border: none;
+  align-items: center;
+  margin: auto;
+  display: flex;
+  cursor: pointer;
+  font-weight: bold;
+}
+.part-six-grey-text {
+  opacity: 0.5;
+  font-size: 25px;
+}
+.part-six-red-text {
+  color: red;
+  font-size: 25px;
+}
+.part-six-green-text {
+  color: green;
+  font-size: 25px;
+}
+.part-seven-grey-text {
+  opacity: 0.5;
+  font-size: 25px;
+}
+.part-seven-main-text {
+  width: 775px;
+  font-size: 25px;
+}
+.handle {
+  color: #94aecc;
+  font-size: 25px;
+}
